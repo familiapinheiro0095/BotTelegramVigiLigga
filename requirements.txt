@@ -1,0 +1,10 @@
+pandas
+openpyxl
+watchdog
+XlsxWriter
+python-telegram-bot
+Pillow
+reportlab
+python-dotenv
+openai
+requests
